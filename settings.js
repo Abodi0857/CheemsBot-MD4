@@ -61,15 +61,15 @@ global.socialm = "GitHub: Abody" //ur github or insta name
 global.location = "Egypt, Alex, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
+global.owner = ['966576192561']
+global.ownertag = '966576192561' //ur tag number
 global.botname = '𝑩𝑶𝑻 𝘈𝘉𝘖𝘋𝘠 🐼🍷 ٫' //ur bot name
 global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ عبودي الفارس   ⍣" //ur sticker watermark packname
+global.packname = "⍣ ˹𝐴𝑏𝑜𝑑𝑖˼   ⍣" //ur sticker watermark packname
 global.author = "⍣966576192561⍣" //ur sticker watermark author
 
 //Bot theme media
@@ -106,9 +106,9 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم يروحي ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
+    admin: ' الميزه دي المشرفين, متجربش مره تانيه!! ',
     botAdmin: 'لازم يكون البوت ادمن !',
-    owner: 'هذه الميزة للمالك فقط!',
+    owner: ' الميزة دي للمالك بس!',
     group: 'الميزة بتستخدم فقط فالجروبات!',
     private: 'الميزه المستخدمة فقط للخاص!',
     bot: 'هذه الميزة مخصصة للبوت فقط',
